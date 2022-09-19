@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{15F465F2-C51E-147F-1F95-8AAC6930114C}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/MenuNavigator.cs">
+    <Files>
+      <File FileName="Assets/MenuOperator.cs" Line="33" Column="1" />
+      <File FileName="Assets/Scripts/InputController.cs" Line="87" Column="19" />
+      <File FileName="Assets/Scripts/MenuNavigator.cs" Line="15" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Project Villa" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="MenuNavigator.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="2e699680-ae47-4d8d-8d04-517e8c0e1e57" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
